@@ -1,0 +1,143 @@
+id,action_id,verb_id,noun_id,action_cls,verb_cls,noun_cls
+0,10,5,5,clap hand,clap,hand
+1,3,0,2,pick up screwdriver,pick up,screwdriver
+2,19,0,4,pick up finished toy,pick up,finished toy
+5,2,2,0,put down screw,put down,screw
+8,1,1,1,rotate partial toy,rotate,partial toy
+13,6,2,1,put down partial toy,put down,partial toy
+17,88,4,0,push screw,push,screw
+20,99,2,18,put down arm,put down,arm
+21,7,0,1,pick up partial toy,pick up,partial toy
+22,5,3,1,inspect partial toy,inspect,partial toy
+23,87,7,6,unscrew cabin with screwdriver,unscrew,cabin
+24,14,7,7,unscrew chassis with screwdriver,unscrew,chassis
+26,139,12,20,remove rear body,remove,rear body
+27,125,3,20,inspect rear body,inspect,rear body
+28,106,2,20,put down rear body,put down,rear body
+29,20,12,6,remove cabin,remove,cabin
+30,24,3,6,inspect cabin,inspect,cabin
+33,12,2,6,put down cabin,put down,cabin
+35,38,15,7,remove screw from chassis,remove screw from,chassis
+36,22,2,7,put down chassis,put down,chassis
+37,4,2,2,put down screwdriver,put down,screwdriver
+38,27,0,7,pick up chassis,pick up,chassis
+39,0,0,0,pick up screw,pick up,screw
+40,17,10,7,position screw on chassis,position screw on,chassis
+41,16,9,7,screw chassis with screwdriver,screw,chassis
+46,29,3,7,inspect chassis,inspect,chassis
+47,98,0,20,pick up rear body,pick up,rear body
+48,121,8,20,position rear body,position,rear body
+49,66,16,0,attempt to position screw,attempt to position,screw
+51,11,0,6,pick up cabin,pick up,cabin
+52,15,8,6,position cabin,position,cabin
+55,84,0,18,pick up arm,pick up,arm
+67,127,14,21,tilt down excavator arm,tilt down,excavator arm
+73,23,2,4,put down finished toy,put down,finished toy
+76,33,7,8,unscrew first wheel with screwdriver,unscrew,first wheel
+77,70,17,0,attempt to pick up screw,attempt to pick up,screw
+78,52,12,8,remove first wheel,remove,first wheel
+79,31,2,8,put down first wheel,put down,first wheel
+80,37,7,9,unscrew second wheel with screwdriver,unscrew,second wheel
+82,130,12,0,remove screw,remove,screw
+83,50,12,9,remove second wheel,remove,second wheel
+84,32,2,9,put down second wheel,put down,second wheel
+85,40,7,10,unscrew third wheel with screwdriver,unscrew,third wheel
+87,44,2,10,put down third wheel,put down,third wheel
+88,48,7,11,unscrew fourth wheel with screwdriver,unscrew,fourth wheel
+91,129,15,6,remove screw from cabin,remove screw from,cabin
+96,67,12,12,remove interior,remove,interior
+97,59,2,12,put down interior,put down,interior
+103,79,2,13,put down nut,put down,nut
+111,41,0,12,pick up interior,pick up,interior
+113,28,0,8,pick up first wheel,pick up,first wheel
+114,36,8,8,position first wheel,position,first wheel
+115,47,10,8,position screw on first wheel,position screw on,first wheel
+116,116,9,8,screw first wheel with hand,screw,first wheel
+117,30,0,9,pick up second wheel,pick up,second wheel
+118,35,8,9,position second wheel,position,second wheel
+119,75,10,9,position screw on second wheel,position screw on,second wheel
+120,138,9,9,screw second wheel with hand,screw,second wheel
+121,53,9,8,screw first wheel with screwdriver,screw,first wheel
+122,56,9,9,screw second wheel with screwdriver,screw,second wheel
+123,34,0,10,pick up third wheel,pick up,third wheel
+124,45,8,10,position third wheel,position,third wheel
+125,57,9,10,screw third wheel with screwdriver,screw,third wheel
+127,39,0,11,pick up fourth wheel,pick up,fourth wheel
+128,51,8,11,position fourth wheel,position,fourth wheel
+129,60,9,11,screw fourth wheel with screwdriver,screw,fourth wheel
+131,83,8,18,position arm,position,arm
+134,21,13,0,pass screw to other hand,pass,screw
+136,62,0,13,pick up nut,pick up,nut
+145,103,10,6,position screw on cabin,position screw on,cabin
+146,108,9,6,screw cabin with screwdriver,screw,cabin
+149,9,4,4,push finished toy,push,finished toy
+150,13,6,4,pull finished toy,pull,finished toy
+151,43,1,4,rotate finished toy,rotate,finished toy
+152,76,7,14,unscrew roof with screwdriver,unscrew,roof
+153,109,15,14,remove screw from roof,remove screw from,roof
+154,72,12,14,remove roof,remove,roof
+156,65,2,14,put down roof,put down,roof
+157,104,7,12,unscrew interior with screwdriver,unscrew,interior
+158,136,15,12,remove screw from interior,remove screw from,interior
+166,105,12,13,remove nut,remove,nut
+169,100,15,9,remove screw from second wheel,remove screw from,second wheel
+170,54,12,10,remove third wheel,remove,third wheel
+171,119,15,11,remove screw from fourth wheel,remove screw from,fourth wheel
+172,49,2,11,put down fourth wheel,put down,fourth wheel
+176,71,1,7,rotate chassis,rotate,chassis
+177,96,3,12,inspect interior,inspect,interior
+181,124,12,18,remove arm,remove,arm
+184,81,0,16,pick up rear base,pick up,rear base
+185,137,16,16,attempt to position rear base,attempt to position,rear base
+187,89,8,16,position rear base,position,rear base
+188,80,10,10,position screw on third wheel,position screw on,third wheel
+190,77,10,11,position screw on fourth wheel,position screw on,fourth wheel
+191,42,8,12,position interior,position,interior
+192,18,11,1,tilt up partial toy,tilt up,partial toy
+193,25,14,1,tilt down partial toy,tilt down,partial toy
+200,141,10,18,position screw on arm,position screw on,arm
+205,74,8,13,position nut,position,nut
+211,63,0,14,pick up roof,pick up,roof
+212,64,8,14,position roof,position,roof
+213,91,10,14,position screw on roof,position screw on,roof
+214,122,9,14,screw roof with screwdriver,screw,roof
+215,68,13,2,pass screwdriver to other hand,pass,screwdriver
+230,110,12,16,remove rear base,remove,rear base
+232,85,2,16,put down rear base,put down,rear base
+233,112,7,17,unscrew front bumper with screwdriver,unscrew,front bumper
+236,118,12,17,remove front bumper,remove,front bumper
+237,101,2,17,put down front bumper,put down,front bumper
+239,86,1,6,rotate cabin,rotate,cabin
+240,97,15,8,remove screw from first wheel,remove screw from,first wheel
+241,107,15,10,remove screw from third wheel,remove screw from,third wheel
+242,55,12,11,remove fourth wheel,remove,fourth wheel
+244,8,3,3,inspect diagram,inspect,diagram
+246,120,10,12,position screw on interior,position screw on,interior
+247,114,9,12,screw interior with screwdriver,screw,interior
+250,82,0,17,pick up front bumper,pick up,front bumper
+251,95,8,17,position front bumper,position,front bumper
+252,117,10,17,position screw on front bumper,position screw on,front bumper
+253,132,9,17,screw front bumper with screwdriver,screw,front bumper
+255,131,3,16,inspect rear base,inspect,rear base
+268,61,6,1,pull partial toy,pull,partial toy
+269,58,3,4,inspect finished toy,inspect,finished toy
+272,92,13,6,pass cabin to other hand,pass,cabin
+282,26,13,1,pass partial toy to other hand,pass,partial toy
+329,123,13,15,pass wheel to other hand,pass,wheel
+347,46,4,1,push partial toy,push,partial toy
+390,93,19,0,attempt to remove screw,attempt to remove,screw
+489,135,16,12,attempt to position interior,attempt to position,interior
+505,126,17,2,attempt to pick up screwdriver,attempt to pick up,screwdriver
+513,134,3,15,inspect wheel,inspect,wheel
+536,128,0,22,pick up rear bumper,pick up,rear bumper
+557,69,16,6,attempt to position cabin,attempt to position,cabin
+563,133,0,23,pick up screwdriver bit,pick up,screwdriver bit
+599,140,2,23,put down screwdriver bit,put down,screwdriver bit
+633,73,18,15,spin wheel,spin,wheel
+649,78,11,14,tilt up roof,tilt up,roof
+650,94,14,14,tilt down roof,tilt down,roof
+678,90,11,19,tilt up dump bed,tilt up,dump bed
+679,102,14,19,tilt down dump bed,tilt down,dump bed
+729,111,11,21,tilt up excavator arm,tilt up,excavator arm
+758,113,7,16,unscrew rear base with screwdriver,unscrew,rear base
+804,115,19,6,attempt to remove cabin,attempt to remove,cabin

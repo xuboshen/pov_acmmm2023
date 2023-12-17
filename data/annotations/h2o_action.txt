@@ -1,0 +1,36 @@
+1 grab book
+2 grab espresso
+3 grab lotion
+4 grab spray
+5 grab milk
+6 grab cocoa
+7 grab chips
+8 grab cappuccino
+9 place book
+10 place espresso
+11 place lotion
+12 place spray
+13 place milk
+14 place cocoa
+15 place chips
+16 place cappuccino
+17 open lotion
+18 open milk
+19 open chips
+20 close lotion
+21 close milk
+22 close chips
+23 pour milk
+24 take out espresso
+25 take out cocoa
+26 take out chips
+27 take out cappuccino
+28 put in espresso
+29 put in cocoa
+30 put in cappuccino
+31 apply lotion
+32 apply spray
+33 read book
+34 read espresso
+35 spray spray
+36 squeeze lotion
